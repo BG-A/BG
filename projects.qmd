@@ -1,0 +1,30 @@
+---
+title: "Projects"
+---
+
+# Projects & Case Studies
+
+## Cleveland Clinic — Digital Transformation (Case)
+**Focus:** patient access, analytics, EHR integration  
+**My role:** literature synthesis, KPI framing, operations lens  
+**Evidence:** slide deck + references  
+*APA example:* (Cleveland Clinic, 2024).
+
+---
+
+## Smart Shelves & RFID in Retail (Mini-Report)
+**Focus:** inventory accuracy, shrink reduction, ROI framing  
+**My role:** research summary, cost/benefit outline  
+**Evidence:** brief report + sources  
+*APA examples:* (Deloitte, 2023; McKinsey & Company, 2015).
+
+---
+
+## Customer Churn Dashboard (Tableau)
+**Focus:** descriptive analytics, cohort views, segment drill-downs  
+**Outcome:** prioritized retention levers  
+**Evidence:** screenshots/link to dashboard (if available)
+
+> Replace these with your real links, screenshots, and proper APA in-text citations.
+
+

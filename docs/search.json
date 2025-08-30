@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Customer Service Leadership, Stakeholder Management\nBusiness Analytics (Excel, Tableau basics)\nDigital Marketing & Branding\nProject Coordination (WBS, Gantt, risk)\n\n\n\n\nExcel • PowerPoint • Tableau • Quarto • Git/GitHub • VS Code\n\n\n\n\nMBA (Business Analytics & Digital Transformation), UCW\nPMP (in progress)\n\n\n\n\n\nConflict resolution & escalation handling\nData-informed decision making\nCommunity outreach & partnership building"
+  },
+  {
+    "objectID": "skills.html#core-skills",
+    "href": "skills.html#core-skills",
+    "title": "Skills",
+    "section": "",
+    "text": "Customer Service Leadership, Stakeholder Management\nBusiness Analytics (Excel, Tableau basics)\nDigital Marketing & Branding\nProject Coordination (WBS, Gantt, risk)"
+  },
+  {
+    "objectID": "skills.html#tools",
+    "href": "skills.html#tools",
+    "title": "Skills",
+    "section": "",
+    "text": "Excel • PowerPoint • Tableau • Quarto • Git/GitHub • VS Code"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills",
+    "section": "",
+    "text": "MBA (Business Analytics & Digital Transformation), UCW\nPMP (in progress)"
+  },
+  {
+    "objectID": "skills.html#strength-highlights",
+    "href": "skills.html#strength-highlights",
+    "title": "Skills",
+    "section": "",
+    "text": "Conflict resolution & escalation handling\nData-informed decision making\nCommunity outreach & partnership building"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "LLM use notice: I used an LLM to brainstorm structure, draft first versions of page copy, and suggest CSS ideas. I revised all generated text for accuracy, tone, and personal fit, and I verified any claims before publishing.\n\n\nMoving from a single page to a multi-page site clarified my information architecture. Separating Resume, Projects, Skills, and Contact reduced scrolling, made each section scannable, and let me maintain content independently. The Quarto navbar standardized navigation across pages, while an external styles.css file ensured a consistent brand (dark blue background, gold headings, professional sans-serif font). Page-level front matter also helped me keep titles and anchors clean.\n\n\n\nI treated LLM output as a drafting tool, not a source of truth. I replaced generic phrasing with my own achievements (e.g., 14+ years in banking & customer service, marketing/outreach roles, and my MBA focus in Business Analytics & Digital Transformation). Where I referenced projects (e.g., Cleveland Clinic case, smart shelves/RFID ROI, churn dashboard), I kept the wording descriptive and avoided unverifiable statistics. Any external facts will include APA-style citations; unverified claims were removed. I also checked for biased or exaggerated language and toned it down to match a professional voice.\n\n\n\nI chose high-contrast colors (dark #0b1e39 background, light text, gold headings) and verified legibility on desktop and a narrow browser window. Links are descriptive (e.g., “Download PDF: resume.pdf”), the profile image uses simple alt text, and the site works with keyboard navigation. I kept paths lowercase with forward slashes (e.g., assets/profile.jpg) to avoid case-sensitivity issues when deploying to GitHub Pages. I also created a fallback link for my embedded Google Form so users can open it in a new tab if the iframe is blocked.\n\n\n\n\nSmall, reversible steps prevent big errors. Editing _quarto.yml, adding pages, and adjusting CSS incrementally kept the project stable.\n\nClean builds matter. Removing stray *_files folders and rendering only to docs/ solved conflicts.\n\nLLMs accelerate, humans authenticate. Drafts are helpful, but credibility comes from my edits, experience, and proper citations.\n\n\n\n\nI will add screenshots and links for each project, include concise metrics on my Resume page, run a basic accessibility audit, and continue refining content as my coursework and professional experience evolve."
+  },
+  {
+    "objectID": "reflection.html#what-improved-as-i-added-pages",
+    "href": "reflection.html#what-improved-as-i-added-pages",
+    "title": "Reflection",
+    "section": "",
+    "text": "Moving from a single page to a multi-page site clarified my information architecture. Separating Resume, Projects, Skills, and Contact reduced scrolling, made each section scannable, and let me maintain content independently. The Quarto navbar standardized navigation across pages, while an external styles.css file ensured a consistent brand (dark blue background, gold headings, professional sans-serif font). Page-level front matter also helped me keep titles and anchors clean."
+  },
+  {
+    "objectID": "reflection.html#ensuring-authenticity-and-accuracy",
+    "href": "reflection.html#ensuring-authenticity-and-accuracy",
+    "title": "Reflection",
+    "section": "",
+    "text": "I treated LLM output as a drafting tool, not a source of truth. I replaced generic phrasing with my own achievements (e.g., 14+ years in banking & customer service, marketing/outreach roles, and my MBA focus in Business Analytics & Digital Transformation). Where I referenced projects (e.g., Cleveland Clinic case, smart shelves/RFID ROI, churn dashboard), I kept the wording descriptive and avoided unverifiable statistics. Any external facts will include APA-style citations; unverified claims were removed. I also checked for biased or exaggerated language and toned it down to match a professional voice."
+  },
+  {
+    "objectID": "reflection.html#usability-and-accessibility-checks",
+    "href": "reflection.html#usability-and-accessibility-checks",
+    "title": "Reflection",
+    "section": "",
+    "text": "I chose high-contrast colors (dark #0b1e39 background, light text, gold headings) and verified legibility on desktop and a narrow browser window. Links are descriptive (e.g., “Download PDF: resume.pdf”), the profile image uses simple alt text, and the site works with keyboard navigation. I kept paths lowercase with forward slashes (e.g., assets/profile.jpg) to avoid case-sensitivity issues when deploying to GitHub Pages. I also created a fallback link for my embedded Google Form so users can open it in a new tab if the iframe is blocked."
+  },
+  {
+    "objectID": "reflection.html#lessons-learned",
+    "href": "reflection.html#lessons-learned",
+    "title": "Reflection",
+    "section": "",
+    "text": "Small, reversible steps prevent big errors. Editing _quarto.yml, adding pages, and adjusting CSS incrementally kept the project stable.\n\nClean builds matter. Removing stray *_files folders and rendering only to docs/ solved conflicts.\n\nLLMs accelerate, humans authenticate. Drafts are helpful, but credibility comes from my edits, experience, and proper citations."
+  },
+  {
+    "objectID": "reflection.html#next-steps",
+    "href": "reflection.html#next-steps",
+    "title": "Reflection",
+    "section": "",
+    "text": "I will add screenshots and links for each project, include concise metrics on my Resume page, run a basic accessibility audit, and continue refining content as my coursework and professional experience evolve."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Profile Photo\n\n\n\nHi, I’m Basma El-Greatly\nWelcome to my MBA portfolio website.\nThis site showcases my background in customer service, banking, marketing, and business analytics,\nas well as my journey into digital transformation and AI.\n\nMBA Student (Business Analytics & Digital Transformation), UCW\n\n14+ years in banking & customer service leadership\n\nMarketing & outreach roles in healthcare & education\n\nCommunity service & Rotary member\n\nExplore the menu above to see my resume, projects, skills, and how to connect with me."
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "This appendix records how I used an LLM and how I revised outputs to ensure accuracy and authenticity. “LLM Draft” blocks show initial text; “My Revision” explains the edits I made.\n\n\n\nLLM Draft (prompted): “Create a multi-page MBA portfolio: Home, Resume, Projects, Skills, Contact; optional Reflection and Appendix.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Kept the five core pages and required Reflection & Appendix. I added a “More” dropdown in the navbar for Reflection and Appendix to keep the primary nav concise.\n\n\n\n\n\n\nLLM Draft (original): “Welcome to my portfolio. I’m passionate about analytics and digital transformation. Explore my work below.”\n\n\n\n\n\n\n\nNote\n\n\n\nMy Revision: Replaced with specific achievements and roles: 14+ years in banking & customer service leadership, marketing/outreach experience, and my MBA in Business Analytics & Digital Transformation. I removed generic adjectives and kept a professional voice.\n\n\n\n\n\n\nLLM Draft (original): “Add a project on digital transformation with references; include a retail analytics project and a churn analysis dashboard.”\n\n\n\n\n\n\n\nImportant\n\n\n\nMy Revision: Specified Cleveland Clinic (digital transformation), Smart Shelves & RFID (ROI framing), and a Customer Churn Dashboard (Tableau). I kept claims descriptive and will add APA citations only for facts I can verify.\n\n\n\n\n\n\nLLM Draft (original): “List soft skills and tools.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Organized into Core Skills, Tools, Certifications, and Strength Highlights (conflict resolution, data-informed decisions, outreach). Removed buzzwords and tied items to real contexts (banking, healthcare, education).\n\n\n\n\n\n\nLLM Draft (original CSS idea): “Use a dark theme with a professional font.”\n\n\n\n\n\n\n\nNote\n\n\n\nMy Revision: Implemented a custom styles.css with #0b1e39 background, white text, and gold headings; ensured link color contrast and added a .profile class for a small, rounded headshot.\n\n\n\n\n\n\nLLM Draft (original): “Embed a contact form.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Embedded a Google Form via &lt;iframe&gt; and added a direct link as fallback for accessibility. Kept width responsive and height adjustable.\n\n\n\n\n\n\nLLM Draft (original): “Add references to make it look credible.”\n\n\n\n\n\n\n\nImportant\n\n\n\nMy Revision: I will only include APA-style citations for facts or statistics I can verify. Any unverified claim was removed or rewritten.\n\n\n\n\n\n\n\n(Optional but recommended) Paste the exact prompts you used to generate page outlines, CSS suggestions, and page copy here. This shows your process and supports academic integrity."
+  },
+  {
+    "objectID": "appendix.html#a.-site-map-information-architecture",
+    "href": "appendix.html#a.-site-map-information-architecture",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (prompted): “Create a multi-page MBA portfolio: Home, Resume, Projects, Skills, Contact; optional Reflection and Appendix.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Kept the five core pages and required Reflection & Appendix. I added a “More” dropdown in the navbar for Reflection and Appendix to keep the primary nav concise."
+  },
+  {
+    "objectID": "appendix.html#b.-home-page-intro",
+    "href": "appendix.html#b.-home-page-intro",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original): “Welcome to my portfolio. I’m passionate about analytics and digital transformation. Explore my work below.”\n\n\n\n\n\n\n\nNote\n\n\n\nMy Revision: Replaced with specific achievements and roles: 14+ years in banking & customer service leadership, marketing/outreach experience, and my MBA in Business Analytics & Digital Transformation. I removed generic adjectives and kept a professional voice."
+  },
+  {
+    "objectID": "appendix.html#c.-projects-page-sections",
+    "href": "appendix.html#c.-projects-page-sections",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original): “Add a project on digital transformation with references; include a retail analytics project and a churn analysis dashboard.”\n\n\n\n\n\n\n\nImportant\n\n\n\nMy Revision: Specified Cleveland Clinic (digital transformation), Smart Shelves & RFID (ROI framing), and a Customer Churn Dashboard (Tableau). I kept claims descriptive and will add APA citations only for facts I can verify."
+  },
+  {
+    "objectID": "appendix.html#d.-skills-page",
+    "href": "appendix.html#d.-skills-page",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original): “List soft skills and tools.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Organized into Core Skills, Tools, Certifications, and Strength Highlights (conflict resolution, data-informed decisions, outreach). Removed buzzwords and tied items to real contexts (banking, healthcare, education)."
+  },
+  {
+    "objectID": "appendix.html#e.-styling-and-theme",
+    "href": "appendix.html#e.-styling-and-theme",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original CSS idea): “Use a dark theme with a professional font.”\n\n\n\n\n\n\n\nNote\n\n\n\nMy Revision: Implemented a custom styles.css with #0b1e39 background, white text, and gold headings; ensured link color contrast and added a .profile class for a small, rounded headshot."
+  },
+  {
+    "objectID": "appendix.html#f.-contact-google-form",
+    "href": "appendix.html#f.-contact-google-form",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original): “Embed a contact form.”\n\n\n\n\n\n\n\nTip\n\n\n\nMy Revision: Embedded a Google Form via &lt;iframe&gt; and added a direct link as fallback for accessibility. Kept width responsive and height adjustable."
+  },
+  {
+    "objectID": "appendix.html#g.-citations-policy",
+    "href": "appendix.html#g.-citations-policy",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "LLM Draft (original): “Add references to make it look credible.”\n\n\n\n\n\n\n\nImportant\n\n\n\nMy Revision: I will only include APA-style citations for facts or statistics I can verify. Any unverified claim was removed or rewritten."
+  },
+  {
+    "objectID": "appendix.html#paste-of-key-prompts-for-transparency",
+    "href": "appendix.html#paste-of-key-prompts-for-transparency",
+    "title": "Appendix (LLM Outputs & Revisions)",
+    "section": "",
+    "text": "(Optional but recommended) Paste the exact prompts you used to generate page outlines, CSS suggestions, and page copy here. This shows your process and supports academic integrity."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: basma.m.elgreatly@example.com\n\nLinkedIn: (https://www.linkedin.com/in/basma-elgreatly/)\n\nGitHub: github.com/your-username\n\n\n\n\n(Loading…)\n\n Loading…"
+  },
+  {
+    "objectID": "contact.html#partnership-consultancy-form",
+    "href": "contact.html#partnership-consultancy-form",
+    "title": "Contact",
+    "section": "",
+    "text": "(Loading…)\n\n Loading…"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: patient access, analytics, EHR integration\nMy role: literature synthesis, KPI framing, operations lens\nEvidence: slide deck + references\nAPA example: (Cleveland Clinic, 2024).\n\n\n\n\nFocus: inventory accuracy, shrink reduction, ROI framing\nMy role: research summary, cost/benefit outline\nEvidence: brief report + sources\nAPA examples: (Deloitte, 2023; McKinsey & Company, 2015).\n\n\n\n\nFocus: descriptive analytics, cohort views, segment drill-downs\nOutcome: prioritized retention levers\nEvidence: screenshots/link to dashboard (if available)\n\nReplace these with your real links, screenshots, and proper APA in-text citations."
+  },
+  {
+    "objectID": "projects.html#cleveland-clinic-digital-transformation-case",
+    "href": "projects.html#cleveland-clinic-digital-transformation-case",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: patient access, analytics, EHR integration\nMy role: literature synthesis, KPI framing, operations lens\nEvidence: slide deck + references\nAPA example: (Cleveland Clinic, 2024)."
+  },
+  {
+    "objectID": "projects.html#smart-shelves-rfid-in-retail-mini-report",
+    "href": "projects.html#smart-shelves-rfid-in-retail-mini-report",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: inventory accuracy, shrink reduction, ROI framing\nMy role: research summary, cost/benefit outline\nEvidence: brief report + sources\nAPA examples: (Deloitte, 2023; McKinsey & Company, 2015)."
+  },
+  {
+    "objectID": "projects.html#customer-churn-dashboard-tableau",
+    "href": "projects.html#customer-churn-dashboard-tableau",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: descriptive analytics, cohort views, segment drill-downs\nOutcome: prioritized retention levers\nEvidence: screenshots/link to dashboard (if available)\n\nReplace these with your real links, screenshots, and proper APA in-text citations."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF: resume.pdf\n\n\n\nCustomer Service & Marketing leader transitioning into Business Analytics and Digital Transformation.\n\n\n\n\n14+ years in banking & customer service leadership\n\nMarketing & outreach in healthcare and education\n\nCommunity service & Rotary\n\n\n\n\n\nMBA (Business Analytics & Digital Transformation), UCW\n\n\n\n\nCustomer Experience • Data Analysis (Excel/Tableau) • Digital Marketing • Project Coordination"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Customer Service & Marketing leader transitioning into Business Analytics and Digital Transformation."
+  },
+  {
+    "objectID": "resume.html#highlights",
+    "href": "resume.html#highlights",
+    "title": "Resume",
+    "section": "",
+    "text": "14+ years in banking & customer service leadership\n\nMarketing & outreach in healthcare and education\n\nCommunity service & Rotary"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA (Business Analytics & Digital Transformation), UCW"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Customer Experience • Data Analysis (Excel/Tableau) • Digital Marketing • Project Coordination"
+  }
+]

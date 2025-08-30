@@ -1,0 +1,22 @@
+---
+title: "Resume"
+---
+
+# Resume
+
+- **Download PDF:** [resume.pdf](assets/resume.pdf){download=true}
+
+## Summary
+Customer Service & Marketing leader transitioning into **Business Analytics** and **Digital Transformation**.
+
+## Highlights
+- 14+ years in banking & customer service leadership  
+- Marketing & outreach in healthcare and education  
+- Community service & Rotary  
+
+## Education
+- MBA (Business Analytics & Digital Transformation), UCW  
+
+## Skills
+Customer Experience • Data Analysis (Excel/Tableau) • Digital Marketing • Project Coordination
+

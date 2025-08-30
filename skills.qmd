@@ -1,0 +1,25 @@
+---
+title: "Skills"
+---
+
+# Skills & Certifications
+
+## Core Skills
+- Customer Service Leadership, Stakeholder Management
+- Business Analytics (Excel, Tableau basics)
+- Digital Marketing & Branding
+- Project Coordination (WBS, Gantt, risk)
+
+## Tools
+Excel • PowerPoint • Tableau • Quarto • Git/GitHub • VS Code
+
+## Certifications
+- MBA (Business Analytics & Digital Transformation), UCW
+- PMP (in progress)
+
+## Strength Highlights
+- Conflict resolution & escalation handling
+- Data-informed decision making
+- Community outreach & partnership building
+
+

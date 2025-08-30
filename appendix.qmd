@@ -1,0 +1,61 @@
+---
+title: "Appendix (LLM Outputs & Revisions)"
+---
+
+# Appendix — LLM Prompts, Outputs, and My Revisions
+
+This appendix records how I used an LLM and how I revised outputs to ensure accuracy and authenticity. “LLM Draft” blocks show initial text; “My Revision” explains the edits I made.
+
+## A. Site Map / Information Architecture
+> **LLM Draft (prompted):** “Create a multi-page MBA portfolio: Home, Resume, Projects, Skills, Contact; optional Reflection and Appendix.”
+
+::: callout-tip
+**My Revision:** Kept the five core pages and **required** Reflection & Appendix. I added a **“More”** dropdown in the navbar for Reflection and Appendix to keep the primary nav concise.
+:::
+
+## B. Home Page Intro
+> **LLM Draft (original):** “Welcome to my portfolio. I’m passionate about analytics and digital transformation. Explore my work below.”
+
+::: callout-note
+**My Revision:** Replaced with specific achievements and roles: *14+ years* in banking & customer service leadership, *marketing/outreach* experience, and my **MBA** in Business Analytics & Digital Transformation. I removed generic adjectives and kept a professional voice.
+:::
+
+## C. Projects Page Sections
+> **LLM Draft (original):** “Add a project on digital transformation with references; include a retail analytics project and a churn analysis dashboard.”
+
+::: callout-important
+**My Revision:** Specified **Cleveland Clinic (digital transformation)**, **Smart Shelves & RFID (ROI framing)**, and a **Customer Churn Dashboard (Tableau)**. I kept claims descriptive and will add **APA citations** only for facts I can verify.
+:::
+
+## D. Skills Page
+> **LLM Draft (original):** “List soft skills and tools.”
+
+::: callout-tip
+**My Revision:** Organized into **Core Skills**, **Tools**, **Certifications**, and **Strength Highlights** (conflict resolution, data-informed decisions, outreach). Removed buzzwords and tied items to real contexts (banking, healthcare, education).
+:::
+
+## E. Styling and Theme
+> **LLM Draft (original CSS idea):** “Use a dark theme with a professional font.”
+
+::: callout-note
+**My Revision:** Implemented a custom `styles.css` with **#0b1e39** background, white text, and gold headings; ensured link color contrast and added a `.profile` class for a small, rounded headshot.
+:::
+
+## F. Contact & Google Form
+> **LLM Draft (original):** “Embed a contact form.”
+
+::: callout-tip
+**My Revision:** Embedded a **Google Form** via `<iframe>` and added a **direct link** as fallback for accessibility. Kept width responsive and height adjustable.
+:::
+
+## G. Citations Policy
+> **LLM Draft (original):** “Add references to make it look credible.”
+
+::: callout-important
+**My Revision:** I will only include **APA-style citations** for facts or statistics I can verify. Any unverified claim was removed or rewritten.
+:::
+
+---
+
+## Paste of Key Prompts (for transparency)
+> *(Optional but recommended)* Paste the exact prompts you used to generate page outlines, CSS suggestions, and page copy here. This shows your process and supports academic integrity.

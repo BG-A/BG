@@ -1,0 +1,25 @@
+---
+title: "Reflection"
+---
+
+# Reflection on Building a Multi-Page Portfolio
+
+*LLM use notice:* I used an LLM to brainstorm structure, draft first versions of page copy, and suggest CSS ideas. I revised all generated text for accuracy, tone, and personal fit, and I verified any claims before publishing.
+
+## What improved as I added pages
+Moving from a single page to a multi-page site clarified my information architecture. Separating **Resume**, **Projects**, **Skills**, and **Contact** reduced scrolling, made each section scannable, and let me maintain content independently. The Quarto navbar standardized navigation across pages, while an external `styles.css` file ensured a consistent brand (dark blue background, gold headings, professional sans-serif font). Page-level front matter also helped me keep titles and anchors clean.
+
+## Ensuring authenticity and accuracy
+I treated LLM output as a *drafting* tool, not a source of truth. I replaced generic phrasing with my own achievements (e.g., **14+ years** in banking & customer service, **marketing/outreach** roles, and my **MBA** focus in Business Analytics & Digital Transformation). Where I referenced projects (e.g., Cleveland Clinic case, smart shelves/RFID ROI, churn dashboard), I kept the wording descriptive and avoided unverifiable statistics. Any external facts will include **APA-style citations**; unverified claims were removed. I also checked for biased or exaggerated language and toned it down to match a professional voice.
+
+## Usability and accessibility checks
+I chose high-contrast colors (dark #0b1e39 background, light text, gold headings) and verified legibility on desktop and a narrow browser window. Links are descriptive (e.g., “Download PDF: resume.pdf”), the profile image uses simple alt text, and the site works with keyboard navigation. I kept paths lowercase with forward slashes (e.g., `assets/profile.jpg`) to avoid case-sensitivity issues when deploying to GitHub Pages. I also created a fallback link for my embedded Google Form so users can open it in a new tab if the iframe is blocked.
+
+## Lessons learned
+1. **Small, reversible steps** prevent big errors. Editing `_quarto.yml`, adding pages, and adjusting CSS incrementally kept the project stable.  
+2. **Clean builds matter.** Removing stray `*_files` folders and rendering only to `docs/` solved conflicts.  
+3. **LLMs accelerate, humans authenticate.** Drafts are helpful, but credibility comes from my edits, experience, and proper citations.
+
+## Next steps
+I will add screenshots and links for each project, include concise metrics on my Resume page, run a basic accessibility audit, and continue refining content as my coursework and professional experience evolve.
+

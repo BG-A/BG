@@ -1,0 +1,25 @@
+body {
+  background-color: #0b1e39;   /* dark professional blue */
+  color: #ffffff;             /* white text for readability */
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar, .navbar-brand {
+  background-color: #0b1e39 !important;
+  color: #ffffff !important;
+}
+
+a, a:hover {
+  color: #66b3ff;   /* light blue for links */
+}
+
+h1, h2, h3 {
+  color: #ffdd57;   /* gold headings for contrast */
+}
+
+img.profile {
+  border-radius: 50%;
+  max-width: 200px;
+  display: block;
+  margin: 20px auto;
+}

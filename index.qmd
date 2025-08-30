@@ -1,0 +1,19 @@
+---
+title: "About Me"
+---
+
+![Profile Photo](assets/profile.jpg){.profile}
+
+# Hi, I'm Basma El-Greatly
+
+Welcome to my MBA portfolio website.  
+This site showcases my background in **customer service**, **banking**, **marketing**, and **business analytics**,  
+as well as my journey into digital transformation and AI.
+
+- MBA Student (Business Analytics & Digital Transformation), UCW  
+- 14+ years in banking & customer service leadership  
+- Marketing & outreach roles in healthcare & education  
+- Community service & Rotary member  
+
+Explore the menu above to see my resume, projects, skills, and how to connect with me.
+
